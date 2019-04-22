@@ -10,7 +10,7 @@
         <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('favicon/favicon-16x16.png') }}">
         <link rel="manifest" href="{{ asset('favicon/site.webmanifest') }}">
 
-        <title>Nirav Nayani | Web Developer</title>
+        <title>Nirav Nayani | Full-Stack Web Developer</title>
 
         <link rel="stylesheet" href="{{ mix('/css/app.css') }}" />
 
