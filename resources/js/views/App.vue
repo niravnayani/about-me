@@ -14,8 +14,9 @@
                     </span>
             </button>
             <div class="collapse navbar-collapse justify-content-center" id="navbarMobile">
-                <router-link :to="{ name: 'home'}"><i class="fa fa-home" aria-hidden="true"></i> Home</router-link>
+                <!-- <router-link :to="{ name: 'home'}"><i class="fa fa-home" aria-hidden="true"></i> Home</router-link> -->
                 <router-link :to="{ name: 'about'}"><i class="fa fa-user" aria-hidden="true"></i> About</router-link>
+                <router-link :to="{ name: 'resume'}"><i class="fa fa-file-code-o" aria-hidden="true"></i> Resume</router-link>
                 <router-link :to="{ name: 'portfolio'}"><i class="fa fa-code" aria-hidden="true"></i> Portfolio</router-link>
                 <router-link :to="{ name: 'contact'}"><i class="fa fa-envelope" aria-hidden="true"></i> Contact</router-link>
             </div>

@@ -24,6 +24,7 @@ Vue.use(Toasted)
 import App from './views/App'
 import Home from './views/Home'
 import About from './views/About'
+import Resume from './views/Resume'
 import Portfolio from './views/Portfolio'
 import Contact from './views/Contact'
 
@@ -43,6 +44,7 @@ Vue.component('example-component', require('./components/ExampleComponent.vue').
 const routes = [
     { path: '/', name: 'home', component: Home },
     { path: '/about', name: 'about', component: About },
+    { path: '/resume', name: 'resume', component: Resume },
     { path: '/portfolio', name: 'portfolio', component: Portfolio },
     { path: '/contact', name: 'contact', component: Contact }
 ]

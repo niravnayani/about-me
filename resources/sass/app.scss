@@ -828,3 +828,41 @@ body .btn-primary {
 		transform: rotate(360deg);
 	}
 }
+
+.resume {
+
+    .col-md-6 {
+        display: block;
+
+        // .gpa {
+        //     @include flexbox();
+        //     @include align-items(center);
+        //     @include justify-content(center);
+        //     @include flex-direction(column);
+        //     border-left: 1px solid $cyan-dark;
+        //     padding: 15px;
+        //     margin-left: 15px;
+        // }
+    }
+    
+    i {
+        @include font-size(30px);
+        display: inline-block;
+        margin-bottom: 30px;
+    }
+
+    .technologies {
+		span {
+			display: inline-block;
+			border: 1px solid;
+			padding: 3px 5px;
+			color: $cyan-dark;
+            margin: 5px;
+            
+            label {
+                margin: 0;
+            }
+		}
+	}
+
+}

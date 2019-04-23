@@ -2,13 +2,6 @@
     <div>
         <div class="overlay">
             <div class="awesome-container text-center">
-                <h1 class="tlt">SKILLS</h1>
-                <div>
-                    <span v-for="(skill, index) in skills" :key="'s' + index">
-                        <label>{{ skill }}</label>
-                    </span>
-                </div>
-                <br>
                 <h2 class="tlt">My Work</h2>
                 <div class="filter">
                     <span v-for="(technology, index) in technologies" :key="'t' + index">
