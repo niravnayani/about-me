@@ -38,6 +38,7 @@
                 this.isActive = false;
                 this.route = this.$route.name;
                 $('#navbarMobile').collapse('hide');
+                Vue.toasted.clear();
             }
         },
         methods: {
