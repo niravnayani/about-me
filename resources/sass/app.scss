@@ -339,7 +339,8 @@ body .btn-primary {
 .tlt span {
 	cursor: default;
 	@include transition(all 1s ease);
-	font-weight: bold;
+    font-weight: bold;
+    position: relative;
 }
 
 .char1 {
@@ -407,9 +408,13 @@ body .btn-primary {
 
 // Portfolio
 .portfolio {
+
+    .tlt span {
+        margin: 0;
+    }
 	.char1 {
-		-webkit-animation: wobble 3s;
-		animation: wobble 3s;
+		-webkit-animation: rubberBand 3s;
+		animation: rubberBand 3s;
 		animation-iteration-count: infinite;
 	}
 
@@ -831,18 +836,14 @@ body .btn-primary {
 
 .resume {
 
+    .char1 {
+		-webkit-animation: rubberBand 3s;
+		animation: rubberBand 3s;
+		animation-iteration-count: infinite;
+	}
+
     .col-md-6 {
         display: block;
-
-        // .gpa {
-        //     @include flexbox();
-        //     @include align-items(center);
-        //     @include justify-content(center);
-        //     @include flex-direction(column);
-        //     border-left: 1px solid $cyan-dark;
-        //     padding: 15px;
-        //     margin-left: 15px;
-        // }
     }
     
     i {

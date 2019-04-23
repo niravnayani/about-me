@@ -4,7 +4,7 @@
             <div class="awesome-container text-center">
                 <br>
                 <br class="d-none d-md-block d-lg-block">
-                <a href="/nirav_nayani_resume.pdf" class="btn-primary">Download Resume</a>
+                <a href="/nirav_nayani_resume.pdf" target="_blank" class="btn-primary">Download Resume</a>
                 <br>
                 <br>
                 <div class="row">
