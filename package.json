@@ -29,6 +29,7 @@
         "imagesloaded": "^4.1.4",
         "vue-images-loaded": "^1.1.2",
         "vue-router": "^3.0.6",
+        "vue-toasted": "^1.1.26",
         "vue2-smooth-scroll": "^1.0.5",
         "vuebar": "0.0.20",
         "vueisotope": "^3.1.2"

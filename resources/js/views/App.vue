@@ -1,7 +1,7 @@
 <template>
     <div class="main-container">
         <nav class="navbar fixed-top navbar-expand-md">
-            <router-link :to="{ name: 'home'}" class="navbar-brand"><img src="/images/logo.png"></router-link>
+            <router-link :to="{ name: 'home'}" class="navbar-brand"><img src="/images/logo.svg"></router-link>
             <button 
                 class="hamburger navbar-toggler hamburger--stand" 
                 v-bind:class="{ 'is-active': isActive }" 

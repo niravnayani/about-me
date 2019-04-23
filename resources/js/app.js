@@ -15,9 +15,11 @@ window.Vue = require('vue');
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Vuebar from 'vuebar';
+import Toasted from 'vue-toasted';
 
 Vue.use(VueRouter)
 Vue.use(Vuebar);
+Vue.use(Toasted)
 
 import App from './views/App'
 import Home from './views/Home'
