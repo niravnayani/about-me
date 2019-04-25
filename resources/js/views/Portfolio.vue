@@ -124,6 +124,12 @@
                         technologies: ["All", "Laravel", "PHP", "Webpack", "Vue", "JavaScript", "jQuery", "HTML5", "SCSS", "Responsive", "E-commerce"]
                     },
                     {
+                        name: "Kboe Radio",
+                        link: "http://www.kboeradio.com/",
+                        image: "/images/my-work/kboe.png",
+                        technologies: ["All", "Wordpress", "PHP", "JavaScript", "jQuery", "HTML5", "CSS3", "Responsive"]
+                    },
+                    {
                         name: "Kirk Cousins",
                         link: "https://kirkcousins.org/",
                         image: "/images/my-work/kc.png",
