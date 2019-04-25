@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="overlay">
+        <div class="overlay flex-center">
             <div class="awesome-container text-center">
                 <br>
                 <br class="d-none d-md-block d-lg-block">
@@ -80,7 +80,7 @@
         data: function() {
             return {
                 publicPath: process.env.BASE_URL,
-                skills: ["Laravel", "PHP", "Bootstrap", "JavaScript", "jQuery", "React", "React Native", "Vue", "Git", "npm", "Webpack", "Gulp", "Wordpress", "REST", "Shopiy", "Liquid HTML", "HTML5", "CSS3", "SASS", "LESS"],
+                skills: ["Laravel", "PHP", "Bootstrap", "JavaScript", "jQuery", "React.js", "React Native", "Vue.js", "Shopiy", "Git", "npm", "Webpack", "Gulp", "Handlebars.js", "Mustache.js", "Wordpress", "REST", "Liquid HTML", "HTML5", "CSS3", "SASS", "LESS"],
             }
         },
         mounted() {
