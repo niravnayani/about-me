@@ -3,7 +3,7 @@
         <div class="flex-center overlay">
             <div class="awesome-container text-center">
                 <div class="title text-left">
-                    <h3><i class="fa fa-briefcase" aria-hidden="true"></i> I currently work as a <span class="tlt">Web Developer</span> for <a href="https://officialize.com/" target="_blank">Officialize</a> in San Diego, CA.</h3>
+                    <h3><i class="fa fa-briefcase" aria-hidden="true"></i> I am a <span class="tlt">Web Developer</span> based in San Diego, CA.</h3>
                     <h3><i class="fa fa-user" aria-hidden="true"></i> I have a passion for creating <span class="tlt">intuitive and dynamic</span> user experiences.</h3>
                     <h3><i class="fa fa-calendar" aria-hidden="true"></i> More than <span class="tlt">3 years of experience</span> building killer responsive front-ends.</h3>
                     <h3><i class="fa fa-graduation-cap" aria-hidden="true"></i> Bachelor's and <span class="tlt">Master's</span> degree in <span class="tlt">Computer Science</span>.</h3>

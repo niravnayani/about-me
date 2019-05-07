@@ -39,7 +39,7 @@
                         <div>
                             <h3>Officialize</h3>
                             <h4>Web Developer</h4>
-                            <h4>September 2016 - Present</h4>
+                            <h4>September 2016 - April 2019</h4>
                         </div>
                         <br>
                         <div>
