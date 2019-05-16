@@ -65,13 +65,13 @@
                     },
                     {
                         name: "Officialize",
-                        link: "https://officialize.com/",
+                        link: "https://officializes.com/",
                         image: "/images/my-work/off.png",
                         technologies: ["All", "Laravel", "PHP", "Webpack", "React", "JavaScript", "jQuery", "REST", "HTML5", "SCSS", "Responsive"]
                     },
                     {
                         name: "Joe Flacco",
-                        link: "https://officialize.com/@joeflacco",
+                        link: "https://officializes.com/@joeflacco",
                         image: "/images/my-work/jf.png",
                         technologies: ["All", "Laravel", "PHP", "Webpack", "Vue", "JavaScript", "jQuery", "HTML5", "SCSS", "Responsive", "E-commerce"]
                     },
@@ -83,7 +83,7 @@
                     },
                     {
                         name: "Le'Veon Bell",
-                        link: "https://officialize.com/@leveonbell",
+                        link: "https://officializes.com/@leveonbell",
                         image: "/images/my-work/lb.png",
                         technologies: ["All", "Laravel", "PHP", "JavaScript", "jQuery", "REST", "Shopiy", "Liquid HTML", "HTML5", "SCSS", "Responsive", "E-commerce"]
                     },
@@ -95,7 +95,7 @@
                     },
                     {
                         name: "Calvin Ridley",
-                        link: "https://officialize.com/@calvinridley",
+                        link: "https://officializes.com/@calvinridley",
                         image: "/images/my-work/cr.png",
                         technologies: ["All", "Laravel", "PHP", "Webpack", "Vue", "JavaScript", "jQuery", "HTML5", "SCSS", "Responsive", "E-commerce"]
                     },
@@ -119,7 +119,7 @@
                     },
                     {
                         name: "Justin Tucker",
-                        link: "https://officialize.com/@justintucker",
+                        link: "https://officializes.com/@justintucker",
                         image: "/images/my-work/jt.png",
                         technologies: ["All", "Laravel", "PHP", "Webpack", "Vue", "JavaScript", "jQuery", "HTML5", "SCSS", "Responsive", "E-commerce"]
                     },
@@ -137,13 +137,13 @@
                     },
                     {
                         name: "Tyreek Hill",
-                        link: "https://officialize.com/@tyreekhill",
+                        link: "https://officializes.com/@tyreekhill",
                         image: "/images/my-work/th.png",
                         technologies: ["All", "Laravel", "PHP", "Webpack", "Vue", "JavaScript", "jQuery", "HTML5", "SCSS", "Responsive", "E-commerce"]
                     },
                     {
                         name: "Remy Workouts",
-                        link: "https://officialize.com/@remyworkouts",
+                        link: "https://officializes.com/@remyworkouts",
                         image: "/images/my-work/rw.png",
                         technologies: ["All", "Laravel", "PHP", "Webpack", "Vue", "REST", "JavaScript", "jQuery", "HTML5", "SCSS", "Responsive", "E-commerce"]
                     }
