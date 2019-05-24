@@ -42,8 +42,8 @@
         data: function() {
             return {
                 isActive: true,
-                skills: ["Laravel", "PHP", "Bootstrap", "JavaScript", "jQuery", "React", "React Native", "Vue", "npm", "Webpack", "Gulp", "Wordpress", "REST", "Shopiy", "Liquid HTML", "HTML5", "CSS3", "SASS", "LESS"],
-                technologies: ["All", "Laravel", "PHP", "Webpack", "React", "Vue", "Gulp", "Wordpress", "JavaScript", "jQuery", "REST", "Shopiy", "Liquid HTML", "HTML5", "SCSS"],
+                skills: ["Laravel", "PHP", "Bootstrap", "JavaScript", "jQuery", "React", "React Native", "Vue", "npm", "Webpack", "Gulp", "Wordpress", "REST", "Shopify", "Liquid HTML", "HTML5", "CSS3", "SASS", "LESS"],
+                technologies: ["All", "Laravel", "PHP", "Webpack", "React", "Vue", "Gulp", "Wordpress", "JavaScript", "jQuery", "REST", "Shopify", "Liquid HTML", "HTML5", "SCSS"],
                 selectedTags: [],
                 selected: null,
                 option: {
@@ -55,13 +55,13 @@
                         name: "NoCoast Beer",
                         link: "https://www.nocoastbeer.co/",
                         image: "/images/my-work/ncb.png",
-                        technologies: ["All", "JavaScript", "jQuery", "REST", "PHP", "Shopiy", "Liquid HTML", "HTML5", "SCSS", "Responsive", "E-commerce"]
+                        technologies: ["All", "JavaScript", "jQuery", "REST", "PHP", "Shopify", "Liquid HTML", "HTML5", "SCSS", "Responsive", "E-commerce"]
                     },
                     {
                         name: "Mahaska",
                         link: "http://www.mahaska.com/",
                         image: "/images/my-work/mbc.png",
-                        technologies: ["All", "Laravel", "Gulp", "PHP", "Wordpress", "REST", "JavaScript", "jQuery", "Shopiy", "Liquid HTML", "HTML5", "SCSS", "Responsive", "E-commerce"]
+                        technologies: ["All", "Laravel", "Gulp", "PHP", "Wordpress", "REST", "JavaScript", "jQuery", "Shopify", "Liquid HTML", "HTML5", "SCSS", "Responsive", "E-commerce"]
                     },
                     {
                         name: "Officialize",
@@ -85,13 +85,13 @@
                         name: "Le'Veon Bell",
                         link: "https://officializes.com/@leveonbell",
                         image: "/images/my-work/lb.png",
-                        technologies: ["All", "Laravel", "PHP", "JavaScript", "jQuery", "REST", "Shopiy", "Liquid HTML", "HTML5", "SCSS", "Responsive", "E-commerce"]
+                        technologies: ["All", "Laravel", "PHP", "JavaScript", "jQuery", "REST", "Shopify", "Liquid HTML", "HTML5", "SCSS", "Responsive", "E-commerce"]
                     },
                     {
                         name: "Team Kitty",
                         link: "http://team-kitty.myshopify.com",
                         image: "/images/my-work/tk.png",
-                        technologies: ["All", "JavaScript", "jQuery", "React", "Shopiy", "Liquid HTML", "HTML5", "SCSS", "Responsive", "E-commerce"]
+                        technologies: ["All", "JavaScript", "jQuery", "React", "Shopify", "Liquid HTML", "HTML5", "SCSS", "Responsive", "E-commerce"]
                     },
                     {
                         name: "Calvin Ridley",
@@ -103,13 +103,13 @@
                         name: "EnduraQ",
                         link: "https://www.enduraq.com/",
                         image: "/images/my-work/eq.png",
-                        technologies: ["All", "JavaScript", "jQuery", "Shopiy", "Liquid HTML", "HTML5", "SCSS", "Responsive", "E-commerce"]
+                        technologies: ["All", "JavaScript", "jQuery", "Shopify", "Liquid HTML", "HTML5", "SCSS", "Responsive", "E-commerce"]
                     },
                     {
                         name: "Rob Gronkowski",
                         link: "https://gronknation.com/",
                         image: "/images/my-work/gn.png",
-                        technologies: ["All", "Laravel", "PHP", "Webpack", "JavaScript", "jQuery", "Shopiy", "Liquid HTML", "HTML5", "SCSS", "Responsive", "E-commerce"]
+                        technologies: ["All", "Laravel", "PHP", "Webpack", "JavaScript", "jQuery", "Shopify", "Liquid HTML", "HTML5", "SCSS", "Responsive", "E-commerce"]
                     },
                     {
                         name: "ISA Sports",
@@ -133,7 +133,7 @@
                         name: "Kirk Cousins",
                         link: "https://kirkcousins.org/",
                         image: "/images/my-work/kc.png",
-                        technologies: ["All", "Laravel", "PHP", "JavaScript", "jQuery", "Shopiy", "Liquid HTML", "HTML5", "SCSS", "Responsive", "E-commerce"]
+                        technologies: ["All", "Laravel", "PHP", "JavaScript", "jQuery", "Shopify", "Liquid HTML", "HTML5", "SCSS", "Responsive", "E-commerce"]
                     },
                     {
                         name: "Tyreek Hill",

@@ -80,7 +80,7 @@
         data: function() {
             return {
                 publicPath: process.env.BASE_URL,
-                skills: ["Laravel", "PHP", "Bootstrap", "JavaScript", "jQuery", "React.js", "React Native", "Vue.js", "Shopiy", "Git", "npm", "Webpack", "Gulp", "Handlebars.js", "Mustache.js", "Wordpress", "REST", "Liquid HTML", "HTML5", "CSS3", "SASS", "LESS"],
+                skills: ["Laravel", "PHP", "Bootstrap", "JavaScript", "jQuery", "React.js", "React Native", "Vue.js", "Shopify", "Git", "npm", "Webpack", "Gulp", "Handlebars.js", "Mustache.js", "Wordpress", "REST", "Liquid HTML", "HTML5", "CSS3", "SASS", "LESS"],
             }
         },
         mounted() {
