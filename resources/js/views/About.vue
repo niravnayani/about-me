@@ -3,9 +3,9 @@
         <div class="flex-center overlay">
             <div class="awesome-container text-center">
                 <div class="title text-left">
-                    <h3><i class="fa fa-briefcase" aria-hidden="true"></i> I am a <span class="tlt">Web Developer</span> based in San Diego, CA.</h3>
+                    <h3><i class="fa fa-briefcase" aria-hidden="true"></i> I am a <span class="tlt">Web Developer</span> at Zehner, based in Los Angeles, CA.</h3>
                     <h3><i class="fa fa-user" aria-hidden="true"></i> I have a passion for creating <span class="tlt">intuitive and dynamic</span> user experiences.</h3>
-                    <h3><i class="fa fa-calendar" aria-hidden="true"></i> More than <span class="tlt">3 years of experience</span> building killer responsive front-ends.</h3>
+                    <h3><i class="fa fa-calendar" aria-hidden="true"></i> More than <span class="tlt">4 years of experience</span> building killer responsive front-ends.</h3>
                     <h3><i class="fa fa-graduation-cap" aria-hidden="true"></i> Bachelor's and <span class="tlt">Master's</span> degree in <span class="tlt">Computer Science</span>.</h3>
                 </div>
                 <div class="dropdown-divider"></div>
@@ -36,7 +36,7 @@
                 </div>
                 <br>
                 <h2 class="rotate">Outside of work, I 
-                    <span id="rotate"><span class="">am a gamer.</span><span class="">play piano.</span><span class="">worship soccer.</span><span class="">love cooking.</span><span class="">still drink coffee.</span></span>
+                    <span id="rotate"><span class="">am a gamer.</span><span class="">play piano.</span><span class="">worship soccer.</span><span class="">love cooking.</span></span>
                 </h2>
             </div>
         </div>

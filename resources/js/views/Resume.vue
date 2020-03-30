@@ -37,6 +37,12 @@
                         <h1 class="tlt">Employment</h1>
                         <i class="fa fa-briefcase" aria-hidden="true"></i>
                         <div>
+                            <h3>Zehner</h3>
+                            <h4>UI Engineer</h4>
+                            <h4>July 2019 - Present</h4>
+                        </div>
+                        <br>
+                        <div>
                             <h3>Officialize</h3>
                             <h4>Web Developer</h4>
                             <h4>September 2016 - April 2019</h4>

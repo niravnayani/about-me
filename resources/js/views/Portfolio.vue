@@ -64,42 +64,6 @@
                         technologies: ["All", "Laravel", "Gulp", "PHP", "Wordpress", "REST", "JavaScript", "jQuery", "Shopify", "Liquid HTML", "HTML5", "SCSS", "Responsive", "E-commerce"]
                     },
                     {
-                        name: "Officialize",
-                        link: "https://officializes.com/",
-                        image: "/images/my-work/off.png",
-                        technologies: ["All", "Laravel", "PHP", "Webpack", "React", "JavaScript", "jQuery", "REST", "HTML5", "SCSS", "Responsive"]
-                    },
-                    {
-                        name: "Joe Flacco",
-                        link: "https://officializes.com/@joeflacco",
-                        image: "/images/my-work/jf.png",
-                        technologies: ["All", "Laravel", "PHP", "Webpack", "Vue", "JavaScript", "jQuery", "HTML5", "SCSS", "Responsive", "E-commerce"]
-                    },
-                    {
-                        name: "MJCSE",
-                        link: "http://mjcsedev.anthro.is/",
-                        image: "/images/my-work/mjc.png",
-                        technologies: ["All", "Wordpress", "PHP", "JavaScript", "jQuery", "HTML5", "CSS3", "Responsive"]
-                    },
-                    {
-                        name: "Le'Veon Bell",
-                        link: "https://officializes.com/@leveonbell",
-                        image: "/images/my-work/lb.png",
-                        technologies: ["All", "Laravel", "PHP", "JavaScript", "jQuery", "REST", "Shopify", "Liquid HTML", "HTML5", "SCSS", "Responsive", "E-commerce"]
-                    },
-                    {
-                        name: "Team Kitty",
-                        link: "http://team-kitty.myshopify.com",
-                        image: "/images/my-work/tk.png",
-                        technologies: ["All", "JavaScript", "jQuery", "React", "Shopify", "Liquid HTML", "HTML5", "SCSS", "Responsive", "E-commerce"]
-                    },
-                    {
-                        name: "Calvin Ridley",
-                        link: "https://officializes.com/@calvinridley",
-                        image: "/images/my-work/cr.png",
-                        technologies: ["All", "Laravel", "PHP", "Webpack", "Vue", "JavaScript", "jQuery", "HTML5", "SCSS", "Responsive", "E-commerce"]
-                    },
-                    {
                         name: "EnduraQ",
                         link: "https://www.enduraq.com/",
                         image: "/images/my-work/eq.png",
@@ -118,12 +82,6 @@
                         technologies: ["All", "Laravel", "PHP", "SPA", "JavaScript", "jQuery", "HTML5", "SCSS", "Responsive"]
                     },
                     {
-                        name: "Justin Tucker",
-                        link: "https://officializes.com/@justintucker",
-                        image: "/images/my-work/jt.png",
-                        technologies: ["All", "Laravel", "PHP", "Webpack", "Vue", "JavaScript", "jQuery", "HTML5", "SCSS", "Responsive", "E-commerce"]
-                    },
-                    {
                         name: "Kboe Radio",
                         link: "http://www.kboeradio.com/",
                         image: "/images/my-work/kboe.png",
@@ -136,14 +94,47 @@
                         technologies: ["All", "Laravel", "PHP", "JavaScript", "jQuery", "Shopify", "Liquid HTML", "HTML5", "SCSS", "Responsive", "E-commerce"]
                     },
                     {
+                        name: "Officialize",
+                        image: "/images/my-work/off.png",
+                        technologies: ["All", "Laravel", "PHP", "Webpack", "React", "JavaScript", "jQuery", "REST", "HTML5", "SCSS", "Responsive"]
+                    },
+                    {
+                        name: "MJCSE",
+                        image: "/images/my-work/mjc.png",
+                        technologies: ["All", "Wordpress", "PHP", "JavaScript", "jQuery", "HTML5", "CSS3", "Responsive"]
+                    },
+                    {
+                        name: "Justin Tucker",
+                        image: "/images/my-work/jt.png",
+                        technologies: ["All", "Laravel", "PHP", "Webpack", "Vue", "JavaScript", "jQuery", "HTML5", "SCSS", "Responsive", "E-commerce"]
+                    },
+                    {
+                        name: "Le'Veon Bell",
+                        image: "/images/my-work/lb.png",
+                        technologies: ["All", "Laravel", "PHP", "JavaScript", "jQuery", "REST", "Shopify", "Liquid HTML", "HTML5", "SCSS", "Responsive", "E-commerce"]
+                    },
+                    {
+                        name: "Team Kitty",
+                        image: "/images/my-work/tk.png",
+                        technologies: ["All", "JavaScript", "jQuery", "React", "Shopify", "Liquid HTML", "HTML5", "SCSS", "Responsive", "E-commerce"]
+                    },
+                    {
+                        name: "Calvin Ridley",
+                        image: "/images/my-work/cr.png",
+                        technologies: ["All", "Laravel", "PHP", "Webpack", "Vue", "JavaScript", "jQuery", "HTML5", "SCSS", "Responsive", "E-commerce"]
+                    },
+                    {
+                        name: "Joe Flacco",
+                        image: "/images/my-work/jf.png",
+                        technologies: ["All", "Laravel", "PHP", "Webpack", "Vue", "JavaScript", "jQuery", "HTML5", "SCSS", "Responsive", "E-commerce"]
+                    },
+                    {
                         name: "Tyreek Hill",
-                        link: "https://officializes.com/@tyreekhill",
                         image: "/images/my-work/th.png",
                         technologies: ["All", "Laravel", "PHP", "Webpack", "Vue", "JavaScript", "jQuery", "HTML5", "SCSS", "Responsive", "E-commerce"]
                     },
                     {
                         name: "Remy Workouts",
-                        link: "https://officializes.com/@remyworkouts",
                         image: "/images/my-work/rw.png",
                         technologies: ["All", "Laravel", "PHP", "Webpack", "Vue", "REST", "JavaScript", "jQuery", "HTML5", "SCSS", "Responsive", "E-commerce"]
                     }
